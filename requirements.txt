@@ -1,0 +1,12 @@
+pandas
+numpy
+plotly
+scikit-learn
+scikit-learn-extra
+umap-learn
+finance-datareader
+python-dateutil
+tqdm
+kneed
+requests
+pytest
